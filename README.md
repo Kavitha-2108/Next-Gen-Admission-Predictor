@@ -237,7 +237,7 @@ An interactive application for exploring university admission prediction using m
 
 Developer of the **Next-Gen Admission Predictor**, an interactive machine learning application built with Streamlit and XGBoost.
 
-🔗 GitHub: https://github.com/Kavitha-2108
+🔗 GitHub:Kavitha-2108
 ## 📄 License
 
 This project is licensed under the MIT License.
